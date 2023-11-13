@@ -1,7 +1,7 @@
 # Escalonamento
 
 ## 💻 Projeto
-Sobre...
+Projeto desnvolvido para simular o escalonamento de processos que um sistema operacional pode realizar. O método implementado neste escalonamento é o FIFO.
 <hr/>
 
 
